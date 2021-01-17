@@ -1,0 +1,45 @@
+.navbar-light .navbar-nav .nav-link{
+    margin: 15px 15px;
+    padding-left: 18px;
+   
+}
+header{
+    background-color:rgba(255, 250, 240, 0.966);
+    padding-bottom: 2px;
+}
+
+.janda-cord{
+    border: 0;
+}
+
+.janda-card-anda{
+    background-color: rgb(211, 211, 211);
+    border-radius: 1rem;
+    margin: 10px 10px;
+    padding-block: 1rem;
+} 
+
+.categories img{
+    width: 100px;
+}
+
+.janda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+
+#stay{
+    background-color: mistyrose;
+    margin: 15px 15px;
+    padding-block: 2rem;
+    background-position: center;
+}
+
+button{
+    background-color: #909B02 !important;
+}
+
+.card-body{
+    text-align:left;
+    padding-left: 1rem;
+}
